@@ -1,5 +1,7 @@
 Online Retail Market Basket Analysis
 
+This project includes both R and Python command lines for market basket ananlysis.
+
 This project applies Market Basket Analysis on the Online Retail dataset using the Apriori algorithm to uncover frequent itemsets and association rules. The focus is on the top 3 customer regions (countries), with detailed analysis of their transaction patterns, cross-selling opportunities, and business implications.
 
 The project is divided into two main parts. Market Basket Analysis done by data understanding through cleaning, transformation, handling missing values, and exploratory analysis, followed by splitting the data according to country to create region-based baskets. The Apriori algorithm is then applied on the top three baskets to generate frequent itemsets and association rules. Business Value Analysis focuses on interpreting the most important rules for each basket and summarizing their implications in terms of product bundling, cross-selling opportunities, and customer behavior insights.
